@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="627Kadai.cpp" />
+    <ClCompile Include="CodeBreaker.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CodeBreaker.h" />
